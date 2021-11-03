@@ -21,38 +21,43 @@
 
   💼 any freelance work? [email](mailto:lois_m@outlook.com) :)
 
+📕 [dev.to][dev] **|** 
 📖 [OpenClassrooms][opc] **|** 
 🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
+<!-- 🐦 [twitter][twitter] **|**  -->
 📺 [youtube][youtube] **|** 
-🎥 [twitch][twitch] **|** 
-📦 [npm][npm] **|** 
+<!-- 🎥 [twitch][twitch] **|**  -->
+<!-- 📦 [npm][npm] **|**  -->
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Marcelin97&left_color=green&right_color=red)
 
+[dev]:https://dev.to/marcelin97
 [opc]: https://openclassrooms.com/fr/
-[website]: https://bradgarropy.com
-[twitter]: https://twitter.com/bradgarropy
-[youtube]: https://youtube.com/bradgarropy
-[twitch]: https://twitch.tv/bradgarropy
-[instagram]: https://instagram.com/bradgarropy
-[linkedin]: https://linkedin.com/in/bradgarropy
+<!-- [website]: https://bradgarropy.com -->
+<!-- [twitter]: https://twitter.com/bradgarropy -->
+<!-- [youtube]: https://youtube.com/bradgarropy -->
+<!-- [twitch]: https://twitch.tv/bradgarropy -->
+[instagram]: https://instagram.com/lois.dev
+[linkedin]: https://www.linkedin.com/in/lo%C3%AFs-marcelin-dev-web/
   ### 👨🏻‍💻 Languages and Tools <br />
 
-<!-- icons without padding -->
+<details>	
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Ubuntu 20.04</li>
+	    <li><b>Laptop: </b> Lenovo Z51 (i7)
+  	    <li><b>Browser: </b> Chorme Web Browser</li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+	    <li><b>Editor:</b> VSCode - The best editor out there.</li>
+	    <li><b>To Stay Updated:</b> Dev.to, Medium, Virgool, Instagram and Twitter.</li>
+	    <br />
+	    👨🏻‍💻 See my desktop screenshot <a href="./images/desktop/my-desktop.png">Here</a>!
+	
+</details>
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: . (LinkedIn icon without padding)
-
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Marcelin97&left_color=green&right_color=red)
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
