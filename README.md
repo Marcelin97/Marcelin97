@@ -17,7 +17,7 @@
 ![Loïs's github stats](https://github-readme-stats.vercel.app/api?username=Marcelin97&show_icons=true&hide_border=true&theme=dark)
 
 
-  #### 📫 How to reach me:
+  ### 📫 How to reach me:
 
   💼 any freelance work? [email](mailto:lois_m@outlook.com) :)
 
@@ -38,7 +38,7 @@
 [twitch]: https://twitch.tv/bradgarropy
 [instagram]: https://instagram.com/bradgarropy
 [linkedin]: https://linkedin.com/in/bradgarropy
-  #### 👨🏻‍💻 Languages and Tools <br />
+  ### 👨🏻‍💻 Languages and Tools <br />
 
 <!-- icons without padding -->
 
