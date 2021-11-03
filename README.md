@@ -1,4 +1,4 @@
-### Hi there <img src="./assets/gifs/wave_30w.gif width="30px">
+### Hi there <img src="./assets/gifs/wave_30w.gif" width="30px">
 
 
 - 🔭 I’m currently working on API REST
