@@ -11,13 +11,15 @@
 - ⚡ Fun fact: judo, bike, t
 ## 🔧 Technologies & Tools
 💜 loving [react][react], [firebase][firebase], [styled-components][styled], [jamstack][jamstack]  
-<details>
-  <summary>📈 GitHub Stats</summary>
 
-    ![Loïs's github stats](https://github-readme-stats.vercel.app/api?username=Marcelin97&show_icons=true&hide_border=true&theme=dark)
-</details>
+## 📈 GitHub Stats
+
+![Loïs's github stats](https://github-readme-stats.vercel.app/api?username=Marcelin97&show_icons=true&hide_border=true&theme=dark)
+
 
   #### 📫 How to reach me:
+
+  💼 any freelance work? [email](mailto:lois_m@outlook.com) :)
 
 📖 [OpenClassrooms][opc] **|** 
 🏡 [website][website] **|** 
