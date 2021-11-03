@@ -1,5 +1,12 @@
-### Hi, I'm Loïs <img src="./assets/gifs/wave_30w.gif" width="30px">
+<div align="center">
+<br>
+<h1>Hi, I'm Loïs <img src="./assets/gifs/wave_30w.gif" width="30px"></h1>
+</div>
+
+## Welcome to my profile page ![visitors](https://visitor-badge.glitch.me/badge?page_id=Marcelin97&left_color=green&right_color=red)
+
 ## I'm in Love, Mom and Developer!
+I live in France, near Paris 🥖. I have always been passionate about new technologies and digital. 💡.
 
 - 🌱 I’m currently learning with [OpenClassrooms][opc] !
 - 🔭 I’m currently working on API REST
@@ -17,21 +24,25 @@
 ![Loïs's github stats](https://github-readme-stats.vercel.app/api?username=Marcelin97&show_icons=true&hide_border=true&theme=dark)
 <!--https://github.com/anuraghazra/github-readme-stats-->
 
-  ### 📫 How to reach me:
+## 🕒 This week i spent my time on:
 
-  💼 any freelance work? [email](mailto:lois_m@outlook.com) :)
+<figure><embed src="https://wakatime.com/share/@21225e59-2551-469f-a3a7-4a545c472f32/6e45bfea-2ee3-4d17-8a81-52ac03e04bc7.svg"></embed></figure>
+
+### 📫 How to reach me:
+
+💼 any freelance work? [email](mailto:lois_m@outlook.com)
 
 📕 [dev.to][dev] **|** 
 📖 [OpenClassrooms][opc] **|** 
-🏡 [website][website] **|** 
+<!-- 🏡 [website][website] **|**  -->
 <!-- 🐦 [twitter][twitter] **|**  -->
-📺 [youtube][youtube] **|** 
+<!-- 📺 [youtube][youtube] **|**  -->
 <!-- 🎥 [twitch][twitch] **|**  -->
-<!-- 📦 [npm][npm] **|**  -->
+📦 [npm][npm] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
-
+[npm]:https://www.npmjs.com/~marcelin97
 [dev]:https://dev.to/marcelin97
 [opc]: https://openclassrooms.com/fr/
 <!-- [website]: https://bradgarropy.com -->
@@ -44,20 +55,18 @@
 
 <details>	
   <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  <summary><b>⚙️☄️ My tools</b></summary>
   	<ul>
   	    <li><b>OS:</b> Ubuntu 20.04</li>
-	    <li><b>Laptop: </b> Lenovo Z51 (i7)
+	    <li><b>Laptop: </b> Asus ZenBook UX481
   	    <li><b>Browser: </b> Chorme Web Browser</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+	    <li><b>Terminal: </b> PowerShell</li>
 	    <li><b>Editor:</b> VSCode - The best editor out there.</li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium, Virgool, Instagram.</li>
+	    <li><b>To Stay Updated:</b> Dev.to, Medium, Feedly, Instagram.</li>
 	    <br />
-	    👨🏻‍💻 See my desktop screenshot <a href="./images/desktop/my-desktop.png">Here</a>!
+	    💻 See my Laptop 👉 <a href="./assets/MyLaptop.jpg">Here</a>!
 	
 </details>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Marcelin97&left_color=green&right_color=red)
 
 [⬆ Back to Top](#Table-of-contents)
 
