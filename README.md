@@ -51,13 +51,15 @@
   	    <li><b>Browser: </b> Chorme Web Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Editor:</b> VSCode - The best editor out there.</li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium, Virgool, Instagram and Twitter.</li>
+	    <li><b>To Stay Updated:</b> Dev.to, Medium, Virgool, Instagram.</li>
 	    <br />
 	    👨🏻‍💻 See my desktop screenshot <a href="./images/desktop/my-desktop.png">Here</a>!
 	
 </details>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Marcelin97&left_color=green&right_color=red)
+
+[⬆ Back to Top](#Table-of-contents)
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
