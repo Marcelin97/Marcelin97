@@ -15,7 +15,7 @@
 ## 📈 GitHub Stats
 
 ![Loïs's github stats](https://github-readme-stats.vercel.app/api?username=Marcelin97&show_icons=true&hide_border=true&theme=dark)
-
+<!--https://github.com/anuraghazra/github-readme-stats-->
 
   ### 📫 How to reach me:
 
@@ -30,6 +30,7 @@
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Marcelin97&left_color=green&right_color=red)
 
 [opc]: https://openclassrooms.com/fr/
 [website]: https://bradgarropy.com
