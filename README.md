@@ -34,23 +34,23 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 
 📕 [dev.to][dev] **|** 
 📖 [OpenClassrooms][opc] **|** 
+📦 [npm][npm] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
 <!-- 🏡 [website][website] **|**  -->
 <!-- 🐦 [twitter][twitter] **|**  -->
 <!-- 📺 [youtube][youtube] **|**  -->
 <!-- 🎥 [twitch][twitch] **|**  -->
-📦 [npm][npm] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
 
 [npm]:https://www.npmjs.com/~marcelin97
 [dev]:https://dev.to/marcelin97
 [opc]: https://openclassrooms.com/fr/
+[instagram]: https://instagram.com/lois.dev
+[linkedin]: https://www.linkedin.com/in/lo%C3%AFs-marcelin-dev-web/
 <!-- [website]: https://bradgarropy.com -->
 <!-- [twitter]: https://twitter.com/bradgarropy -->
 <!-- [youtube]: https://youtube.com/bradgarropy -->
 <!-- [twitch]: https://twitch.tv/bradgarropy -->
-[instagram]: https://instagram.com/lois.dev
-[linkedin]: https://www.linkedin.com/in/lo%C3%AFs-marcelin-dev-web/
   ### 👨🏻‍💻 Languages and Tools <br />
 
 <details>	
@@ -64,7 +64,7 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 	    <li><b>Editor:</b> VSCode - The best editor out there.</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Feedly, Instagram.</li>
 	    <br />
-	    💻 See my Laptop 👉 <a href="./assets/MyLaptop.jpg">Here</a>!
+	    💻 See my Laptop 👉 <a href="./assets/MyLaptop.jpg" width="300px">Here</a>!
 	
 </details>
 
