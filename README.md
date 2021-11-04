@@ -55,7 +55,7 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 <!--START_SECTION:waka-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelin97&layout=compact)](https://github.com/Marcelin97/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Marcelin97)](https://github.com/Marcelin97/github-readme-stats)
+[![Marcelin97's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Marcelin97)](https://github.com/Marcelin97/github-readme-stats)
 
 
 
