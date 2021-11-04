@@ -53,9 +53,8 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 ## 🕒 This week i spent my time on:
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelin97)](https://github.com/Marcelin97/github-readme-stats)
+
 <!--END_SECTION:waka-->
 
 <details>	
