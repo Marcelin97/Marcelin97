@@ -30,44 +30,31 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 ### 👨🏻‍💻 Languages and Tools <br />
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code"></code>
-
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub"></code>
-
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"></code>
-
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS4"></code>
-
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="SASS"></code>
-
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></code>
-
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js"></code>
-
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"></code>
-
 <code><img height="27" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="Figma"></code
-
-<code><img height="27" src="" alt=""></code
 
 ### 🎓🚀 Learning
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL"></code>
-
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"></code>
 
 ## 📈 GitHub Stats
 
-![Loïs's github stats](https://github-readme-stats.vercel.app/api?username=Marcelin97&show_icons=true&hide_border=true&transparent)
+![Loïs's github stats](https://github-readme-stats.vercel.app/api?username=Marcelin97&show_icons=true&hide_border=true&darked)
 
 ## 🕒 This week i spent my time on:
 
 <!--START_SECTION:waka-->
 
-<figure><embed src="https://wakatime.com/share/@21225e59-2551-469f-a3a7-4a545c472f32/6e45bfea-2ee3-4d17-8a81-52ac03e04bc7.svg"></embed></figure>
+<figure><img src="https://wakatime.com/share/@21225e59-2551-469f-a3a7-4a545c472f32/6e45bfea-2ee3-4d17-8a81-52ac03e04bc7.svg"></img></figure>
 
 <!--END_SECTION:waka-->
 
@@ -95,12 +82,11 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 	    <br />	
 </details>
 
-### 📫 How to reach me:
+## 📫 How to reach me:
 
 💼 any freelance work? [email](mailto:lois_m@outlook.com)
 
 📕 [dev.to][dev] **|**
-📖 [OpenClassrooms][opc] **|**
 📦 [npm][npm] **|**
 📷 [instagram][instagram] **|**
 👔 [linkedin][linkedin]
