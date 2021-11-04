@@ -53,9 +53,9 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 ## 🕒 This week i spent my time on:
 
 <!--START_SECTION:waka-->
-
-<figure><img src="https://wakatime.com/share/@21225e59-2551-469f-a3a7-4a545c472f32/6e45bfea-2ee3-4d17-8a81-52ac03e04bc7.svg"></img></figure>
-
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <details>	
