@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" id="header">
 <br>
 <h1>Hi, I'm Loïs <img src="./assets/gifs/wave_30w.gif" width="30px"></h1>
 </div>
@@ -77,7 +77,7 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 	
 </details>
 
-[⬆ Back to Top](#Table-of-contents)
+[⬆ Back to Top](#header)
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
