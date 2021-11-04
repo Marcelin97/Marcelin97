@@ -25,21 +25,21 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 
 ## 🔧 Technologies & Tools
 
-💜 loving [react][react], [firebase][firebase], [styled-components][styled], [jamstack][jamstack]
+<!-- 💜 loving [react][react], [firebase][firebase], [styled-components][styled], [jamstack][jamstack] -->
 
 ### 👨🏻‍💻 Languages and Tools <br />
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"><code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS4"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="SASS"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="Figma"></code
+<code><img height="27" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="Figma"></code>
 
 ### 🎓🚀 Learning
 
@@ -53,11 +53,10 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 ## 🕒 This week i spent my time on:
 
 <!--START_SECTION:waka-->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelin97&layout=compact)](https://github.com/Marcelin97/github-readme-stats)
 
 [![Marcelin97's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Marcelin97)](https://github.com/Marcelin97/github-readme-stats)
-
-
 
 <!--END_SECTION:waka-->
 
