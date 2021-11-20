@@ -49,14 +49,14 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 ## 📈 GitHub Stats
 
 ![Loïs's github stats](https://github-readme-stats.vercel.app/api?username=Marcelin97&show_icons=true&hide_border=true&darked)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelin97&layout=compact)](https://github.com/Marcelin97/github-readme-stats)
 
 ## 🕒 This week i spent my time on:
 
 <!--START_SECTION:waka-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelin97&layout=compact)](https://github.com/Marcelin97/github-readme-stats)
-
-[![Marcelin97's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Marcelin97)](https://github.com/Marcelin97/github-readme-stats)
+<img src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/>
+Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
 
 <!--END_SECTION:waka-->
 
