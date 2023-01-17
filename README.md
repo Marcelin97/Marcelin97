@@ -10,16 +10,16 @@
 I live in France, near Paris 🥖. I have always been passionate about new technologies and digital. 💡.
 
 - 🌱 I’m currently learning with [OpenClassrooms][opc] !
-- 🔭 I’m currently working on API REST
+- 🔭 I’m currently working on Aw
 - 🤝 I’m looking to collaborate on creating content.
 - 🤔 I’m looking for help with 3D.
-- 💬 Ask me about HTML, CSS, JavaScript.
-- ⚡ Fun fact: judo, bike, t
+- 💬 Ask me about HTML, CSS, JavaScript or Vue.js
+- ⚡ Fun fact: I ❤️ video games
 
 ### My Hobbies:
 
 - 🥋 I pratice judo. I'm black belt.
-- 💃🏽 I love dance
+- 🚴🏽‍♀️ I'm doing some mountain biking and running 👟
 - 💻 I love exploring new tech stack and building cool stuffs.
 - 📰 Reading & writing tech news.
 
@@ -40,11 +40,12 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="Figma"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"></code>
 
 ### 🎓🚀 Learning
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"></code>
+
 
 ## 📈 GitHub Stats
 
@@ -55,8 +56,7 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 
 <!--START_SECTION:waka-->
 
-<img src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/>
-Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
+<img src="https://github.com/Marcelin97/images/stat.svg" alt="Alternative Text"/>
 
 <!--END_SECTION:waka-->
 
@@ -75,17 +75,16 @@ Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" a
 	
 </details>
 <details>	
-  <br />
   <summary><b>🧠  Other knowledge</b></summary>
   	<ul>
-  	    <li><b>Accounting</b></li>
+  		<li><b>Accounting</b></li>
 		<li><b>customer relationship management</b></li>
 		<li><b>commercial</b></li>
-	    <br />	
+	</ul>	
 </details>
 
 ## 📫 How to reach me:
-
+👨‍💻 Learn more about my projects at: https://github.com/Marcelin97
 💼 any freelance work? [email](mailto:lois_m@outlook.com)
 
 📕 [dev.to][dev] **|**
@@ -100,7 +99,6 @@ Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" a
 
 [npm]: https://www.npmjs.com/~marcelin97
 [dev]: https://dev.to/marcelin97
-[opc]: https://openclassrooms.com/fr/
 [instagram]: https://instagram.com/lois.dev
 [linkedin]: https://www.linkedin.com/in/lo%C3%AFs-marcelin-dev-web/
 
