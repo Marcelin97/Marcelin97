@@ -9,19 +9,19 @@
 
 I live in France, near Paris 🥖. I have always been passionate about new technologies and digital. 💡.
 
-- 🌱 I’m currently learning with [OpenClassrooms][opc] !
-- 🔭 I’m currently working on Aw
-- 🤝 I’m looking to collaborate on creating content.
-- 🤔 I’m looking for help with 3D.
+- 🔭 I'm currently working on something cool😉
+- 🌱 I am currently working on creating my online CV and my portfolio
+- 🤝 I’m looking to collaborate on creating content
+- 🤔 I’m looking for help with 3D
 - 💬 Ask me about HTML, CSS, JavaScript or Vue.js
 - ⚡ Fun fact: I ❤️ video games
 
 ### My Hobbies:
 
-- 🥋 I pratice judo. I'm black belt.
+- 🥋 I pratice judo. I'm black belt
 - 🚴🏽‍♀️ I'm doing some mountain biking and running 👟
-- 💻 I love exploring new tech stack and building cool stuffs.
-- 📰 Reading & writing tech news.
+- 💻 I love exploring new tech stack and building cool stuffs
+- 📰 Reading & writing tech news
 
 ## 🔧 Technologies & Tools
 
