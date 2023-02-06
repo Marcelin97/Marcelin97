@@ -87,25 +87,6 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 ## 🕒 This week i spent my time on:
 
 <!--START_SECTION:waka-->
-<div>
-
-	name: Waka Readme
-
-		on:
-		  schedule:
-		    # Runs at 12am IST
-		    - cron: '30 18 * * *'
-		  workflow_dispatch:
-		jobs:
-		  update-readme:
-		    name: Update Readme with Metrics
-		    runs-on: ubuntu-latest
-		    steps:
-		      - uses: Marcelin97/waka-readme-stats@master
-			with:
-			  WAKATIME_API_KEY: waka_3857bbbc-f71a-486b-be94-34eb167f80e0
-			  GH_TOKEN: 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
-</div>
 <!--END_SECTION:waka-->
 
 <details>	
