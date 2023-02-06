@@ -10,9 +10,9 @@
 I live in France, near Paris 🥖. I have always been passionate about new technologies and digital. 💡.
 
 - 🔭 I'm currently working on something cool😉
-- 🌱 I am currently working on creating my online CV and my portfolio
+- 🌱 I am currently working on creating my portfolio
 - 🤝 I’m looking to collaborate on creating content
-- 🤔 I’m looking for help with 3D
+<!-- - 🤔 I’m looking for help with 3D -->
 - 💬 Ask me about HTML, CSS, JavaScript or Vue.js
 - ⚡ Fun fact: I ❤️ video games
 
@@ -25,27 +25,50 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 
 ## 🔧 Technologies & Tools
 
-<!-- 💜 loving [react][react], [firebase][firebase], [styled-components][styled], [jamstack][jamstack] -->
+💜 loving [vue][vue]
 
 ### 👨🏻‍💻 Languages and Tools <br />
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"><code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS4"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="SASS"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="Figma"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"></code>
+<div>	
+	## Front
+	  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Booststrap 5" alt="Booststrap 5" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS 3" alt="CSS 3" width="40" height="40"/>&nbsp;
+	  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
+	  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/tree/master/icons/vuejs" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
+	
+	## Back
+	  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+	  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+	
+	## Package Manager
+	  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
+	
+	## Data
+	  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/tree/master/icons/sequelize" title="Sequelize" alt="Sequelize" width="40" height="40"/>&nbsp;
+	 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+	
+	## Versionning
+	  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+	  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+	
+	## Debugging
+	  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest"  alt="Jest" width="40" height="40"/>&nbsp;
+
+	## Tools
+	  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+	  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
+</div>
 
 ### 🎓🚀 Learning
-
-
+<div>
+	  <img src="https://github.com/devicons/devicon/tree/master/icons/nuxtjs" title="Nuxt"  alt="Nuxt" width="40" height="40"/>&nbsp;
+	  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+</div>
 
 ## 📈 GitHub Stats
 
@@ -54,12 +77,7 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 
 ## 🕒 This week i spent my time on:
 
-<!--START_SECTION:waka-->
-
-<img src="https://github.com/Marcelin97/images/stat.svg" alt="Alternative Text"/>
-
-<!--END_SECTION:waka-->
-	<!--START_SECTION:waka-->
+<!--START_SECTION:waka-->	
 	name: Waka Readme
 
 		on:
@@ -86,11 +104,11 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
   	    <li><b>OS:</b> Windows 10</li>
 	    <li><b>Laptop: </b> Asus ZenBook UX481
   	    <li><b>Browser: </b> Chrome 🕸️ and Firefox 🔥</li>
-	    <li><b>Terminal: </b> PowerShell</li>
+	    <li><b>Terminal: </b> Bash </li>
 	    <li><b>Editor:</b> VSCode - The best editor out there.</li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium, Feedly, Instagram.</li>
+	    <li><b>To Stay Updated:</b> Dev.to, Medium, Instagram.</li>
 	    <br />
-	    💻 See my Laptop 👉 <a href="./assets/MyLaptop.jpg" height="300px">Here</a>!
+	    💻 See my Laptop 👉 <a href="./assets/MyLaptop.jpg" height="100px" width="100" >Here</a>!
 	
 </details>
 <details>	
@@ -120,6 +138,7 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 [dev]: https://dev.to/marcelin97
 [instagram]: https://instagram.com/lois.dev
 [linkedin]: https://www.linkedin.com/in/lo%C3%AFs-marcelin-dev-web/
+[vue]: <img src="https://github.com/devicons/devicon/tree/master/icons/vuejs" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
 
 <!-- [website]: https://bradgarropy.com -->
 <!-- [twitter]: https://twitter.com/bradgarropy -->
