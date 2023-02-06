@@ -28,7 +28,8 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 💜 loving [vue][vue]
 
 ### 👨🏻‍💻 Languages and Tools <br />
-<div>	
+<div>
+<details>
 	<summary><b>Front</b></summary>
 	  <ul>
 		  <li><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;</li>
@@ -39,6 +40,7 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 		  <li><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;</li>
 		  <li><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;</li>
 	</ul>
+		</details>
 </div>
 <div>
 	## Back <br>
