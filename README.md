@@ -28,7 +28,6 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 💜 loving [vue][vue]
 
 ### 👨🏻‍💻 Languages and Tools <br />
-
 <div>	
 	## Front
 	  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -36,28 +35,34 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS 3" alt="CSS 3" width="40" height="40"/>&nbsp;
 	  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
 	  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/tree/master/icons/vuejs" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
-	
+</div>
+<div>
 	## Back
 	  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 	  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-	
+</div>
+<div>
 	## Package Manager
 	  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
-	
+</div>
+<div>
 	## Data
 	  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/tree/master/icons/sequelize" title="Sequelize" alt="Sequelize" width="40" height="40"/>&nbsp;
 	 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-	
+</div>
+<div>	
 	## Versionning
 	  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 	  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-	
+</div>
+<div>	
 	## Debugging
 	  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest"  alt="Jest" width="40" height="40"/>&nbsp;
-
+</div>
+<div>
 	## Tools
 	  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
 	  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
@@ -66,7 +71,7 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 
 ### 🎓🚀 Learning
 <div>
-	  <img src="https://github.com/devicons/devicon/tree/master/icons/nuxtjs" title="Nuxt"  alt="Nuxt" width="40" height="40"/>&nbsp;
+	  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" title="Nuxt"  alt="Nuxt" width="40" height="40"/>&nbsp;
 	  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
 </div>
 
@@ -77,7 +82,9 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 
 ## 🕒 This week i spent my time on:
 
-<!--START_SECTION:waka-->	
+<!--START_SECTION:waka-->
+<div>
+
 	name: Waka Readme
 
 		on:
@@ -94,7 +101,7 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 			with:
 			  WAKATIME_API_KEY: waka_3857bbbc-f71a-486b-be94-34eb167f80e0
 			  GH_TOKEN: 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
-	
+</div>
 <!--END_SECTION:waka-->
 
 <details>	
@@ -138,7 +145,7 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 [dev]: https://dev.to/marcelin97
 [instagram]: https://instagram.com/lois.dev
 [linkedin]: https://www.linkedin.com/in/lo%C3%AFs-marcelin-dev-web/
-[vue]: <img src="https://github.com/devicons/devicon/tree/master/icons/vuejs" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
+[vue]: <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
 
 <!-- [website]: https://bradgarropy.com -->
 <!-- [twitter]: https://twitter.com/bradgarropy -->
