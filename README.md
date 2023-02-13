@@ -3,7 +3,8 @@
 <h1>Hi, I'm Loïs <img src="./assets/gifs/wave_30w.gif" width="30px"></h1>
 </div>
 
-## Welcome to my profile page ![visitors](https://visitor-badge.glitch.me/badge?page_id=Marcelin97&left_color=green&right_color=red)
+## Welcome to my profile page !
+<!-- [visitors](https://visitor-badge.glitch.me/badge?page_id=Marcelin97&left_color=green&right_color=red) -->
 
 ## 👨‍👩‍👧‍👧 I'm in Love, Mom and Developer!
 
@@ -29,54 +30,205 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 
 ### 👨🏻‍💻 Languages and Tools <br />
 <div>
-<details>
-	<summary><b>Front</b></summary>
-	  <ul>
-		  <li><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;</li>
-		  <li><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Booststrap 5" alt="Booststrap 5" width="40" height="40"/>&nbsp;</li>
-		  <li><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS 3" alt="CSS 3" width="40" height="40"/>&nbsp;</li>
-		  <li><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;</li>
-		  <li><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;</li>
-		  <li><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;</li>
-		  <li><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;</li>
-	</ul>
-		</details>
+	<details id="marcelin97">
+		<summary><b>Front</b></summary>
+		<table>
+			<tr>
+				<td align="center" width="96">
+					<a href="#marcelin97">
+						<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+					</a>
+					<br>HTML
+				</td>
+				<td align="center" width="96">
+					<a href="#marcelin97">
+						<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Booststrap 5" alt="Booststrap 5" width="40" height="40"/>&nbsp;
+					</a>
+					<br>Boostrap
+				</td>
+				<td align="center" width="96">
+					<a href="#marcelin97">
+						<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS 3" alt="CSS 3" width="40" height="40"/>&nbsp;
+					</a>
+					<br>CSS
+				</td>
+				<td align="center" width="96">
+					<a href="#marcelin97">
+						<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
+					</a>
+					<br>SASS
+				</td>
+				<td align="center" width="96">
+					<a href="#marcelin97">
+						<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+					</a>
+					<br>JavaScript
+				</td>
+				<td align="center" width="96">
+					<a href="#marcelin97">
+						<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
+					</a>
+					<br>Vue.js
+				</td>
+				<td align="center" width="96">
+					<a href="#marcelin97">
+						<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
+					</a>
+					<br>Webpack
+				</td>
+			</tr>
+			</table>
+			</details>
 </div>
 <div>
-	## Back <br>
-	  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-	  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+	<details id="marcelin97">
+		<summary><b>Back</b></summary>
+		<table>
+			<tr>
+				<td align="center" width="96">
+					<a href="#marcelin97">
+						<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+					</a>
+					<br>Node.js
+				</td>
+				<td align="center" width="96">
+					<a href="#marcelin97">
+						<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+					</a>
+					<br>Express
+				</td>		
+			</tr>
+			</table>
+			</details>
 </div>
 <div>
-	## Package Manager <br>
-	  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
+	<details id="marcelin97">
+		<summary><b>Package Manager</b></summary>
+		<table>
+			<tr>
+				<td align="center" width="96">
+					<a href="#marcelin97">
+						<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
+					</a>
+					<br>NPM
+				</td>	
+			</tr>
+			</table>
+			</details>
 </div>
 <div>
-	## Data <br>
-	  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg" title="Sequelize" alt="Sequelize" width="40" height="40"/>&nbsp;
-	 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-</div>
-<div>	
-	## Versionning <br>
-	  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-	  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-</div>
-<div>	
-	## Debugging <br>
-	  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest"  alt="Jest" width="40" height="40"/>&nbsp;
+	<details id="marcelin97">
+		<summary><b>DATA</b></summary>
+		<table>
+			<tr>
+				<td align="center" width="96">
+					<a href="#marcelin97">
+						<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+					</a>
+					<br>MySQL
+				</td>
+				<td align="center" width="96">
+					<a href="#marcelin97">
+						<img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg" title="Sequelize" alt="Sequelize" width="40" height="40"/>&nbsp;
+					</a>
+					<br>Sequelize
+				</td>
+				<td align="center" width="96">
+					<a href="#marcelin97">
+						<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+					</a>
+					<br>MongoDB
+				</td>
+			</tr>
+			</table>
+			</details>
 </div>
 <div>
-	## Tools <br>
-	  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-	  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
+	<details id="marcelin97">
+		<summary><b>Versionning</b></summary>
+		<table>
+			<tr>
+				<td align="center" width="96">
+					<a href="#marcelin97">
+						<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+					</a>
+					<br>Git
+				</td>
+				<td align="center" width="96">
+					<a href="#marcelin97">
+						<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+					</a>
+					<br>GitHub
+				</td>
+			</tr>
+			</table>
+			</details>
 </div>
+<div>
+	<details id="marcelin97">
+		<summary><b>Debugging</b></summary>
+		<table>
+			<tr>
+				<td align="center" width="96">
+					<a href="#marcelin97">
+						<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest"  alt="Jest" width="40" height="40"/>&nbsp;
+					</a>
+					<br>Jest
+				</td>
+			</tr>
+			</table>
+			</details>
+</div>
+<div>
+	<details id="marcelin97">
+		<summary><b>Tools</b></summary>
+		<table>
+			<tr>
+				<td align="center" width="96">
+					<a href="#marcelin97">
+						<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+					</a>
+					<br>Bash
+				</td>
+				<td align="center" width="96">
+					<a href="#marcelin97">
+						<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+					</a>
+					<br>Figma
+				</td>
+				<td align="center" width="96">
+					<a href="#marcelin97">
+						<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
+					</a>
+					<br>Visual Studio Code
+				</td>
+			</tr>
+			</table>
+	</details>
+</div>	
 
 ### 🎓🚀 Learning
+
 <div>
-	  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" title="Nuxt"  alt="Nuxt" width="40" height="40"/>&nbsp;
-	  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+	<details id="marcelin97">
+		<summary><b>Debugging</b></summary>
+		<table>
+			<tr>
+				<td align="center" width="96">
+					<a href="#marcelin97">
+						<img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" title="Nuxt"  alt="Nuxt" width="40" height="40"/>&nbsp;
+					</a>
+					<br>Nuxt
+				</td>
+				<td align="center" width="96">
+					<a href="#marcelin97">
+						<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+					</a>
+					<br>Typescript
+				</td>
+			</tr>
+			</table>
+			</details>
 </div>
 
 ## 📈 GitHub Stats
@@ -100,7 +252,7 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 	    <li><b>Editor:</b> VSCode - The best editor out there.</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Instagram.</li>
 	    <br />
-	    💻 See my Laptop 👉 <a href="./assets/MyLaptop.jpg" height="100px" width="100" >Here</a>!
+	    💻 See my Laptop 👉 <a href="./assets/MyLaptop.jpg" height="50" width="50" >Here</a>!
 	
 </details>
 <details>	
@@ -130,7 +282,7 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 [dev]: https://dev.to/marcelin97
 [instagram]: https://instagram.com/lois.dev
 [linkedin]: https://www.linkedin.com/in/lo%C3%AFs-marcelin-dev-web/
-[vue]: <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
+[vue]: https://www.https://vuejs.org/
 
 <!-- [website]: https://bradgarropy.com -->
 <!-- [twitter]: https://twitter.com/bradgarropy -->
@@ -145,4 +297,3 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 <!-- Emojis: https://emojipedia.org/emoji/ -->
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
