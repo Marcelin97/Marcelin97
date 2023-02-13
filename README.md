@@ -234,7 +234,7 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 ![Loïs's github stats](https://github-readme-stats.vercel.app/api?username=Marcelin97&show_icons=true&hide_border=true&darked)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelin97&layout=compact)](https://github.com/Marcelin97/github-readme-stats)
 
-## 🕒 This week i spent my time on:
+<!-- ## 🕒 This week i spent my time on: -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
