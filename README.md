@@ -118,7 +118,7 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 </div>
 <div>
 	<details id="marcelin97">
-		<summary><b>DATA</b></summary>
+		<summary><b>Data</b></summary>
 		<table>
 			<tr>
 				<td align="center" width="96">
@@ -207,11 +207,9 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 	</details>
 </div>	
 
-### 🎓🚀 Learning
-
 <div>
 	<details id="marcelin97">
-		<summary><b>Debugging</b></summary>
+		<summary><b>🎓🚀 Learning</b></summary>
 		<table>
 			<tr>
 				<td align="center" width="96">
