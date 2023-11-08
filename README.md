@@ -234,7 +234,7 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 ![Loïs's github stats](https://github-readme-stats.vercel.app/api?username=Marcelin97&show_icons=true&hide_border=true&darked)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelin97&layout=compact)](https://github.com/Marcelin97/github-readme-stats)
 
-# replace username with your own or change theme ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Marcelin97&theme=dracula&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Marcelin97&theme=dracula&hide_border=true)
 
 <!-- ## 🕒 This week i spent my time on: -->
 
