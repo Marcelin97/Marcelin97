@@ -11,11 +11,11 @@
 I live in France, near Paris 🥖. I have always been passionate about new technologies and digital. 💡.
 
 - 🔭 I'm currently working on something cool😉
+- 💬 Ask me about JavaScript, PHP or Symfony.
+- ⚡ Fun fact: I ❤️ video games
 <!-- - 🌱 I am currently working on creating my portfolio -->
 <!-- - 🤝 I’m looking to collaborate on creating content -->
 <!-- - 🤔 I’m looking for help with 3D -->
-- 💬 Ask me about JavaScript, PHP or Symfony.
-- ⚡ Fun fact: I ❤️ video games
 
 ### My Hobbies:
 
@@ -38,43 +38,36 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 					<a href="#marcelin97">
 						<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 					</a>
-					<br>HTML
 				</td>
 				<td align="center" width="96">
 					<a href="#marcelin97">
 						<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Booststrap 5" alt="Booststrap 5" width="40" height="40"/>&nbsp;
 					</a>
-					<br>Boostrap
 				</td>
 				<td align="center" width="96">
 					<a href="#marcelin97">
 						<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS 3" alt="CSS 3" width="40" height="40"/>&nbsp;
 					</a>
-					<br>CSS
 				</td>
 				<td align="center" width="96">
 					<a href="#marcelin97">
 						<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
 					</a>
-					<br>SASS
 				</td>
 				<td align="center" width="96">
 					<a href="#marcelin97">
 						<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 					</a>
-					<br>JavaScript
 				</td>
 				<td align="center" width="96">
 					<a href="#marcelin97">
 						<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
 					</a>
-					<br>Vue.js
 				</td>
 				<td align="center" width="96">
 					<a href="#marcelin97">
 						<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
 					</a>
-					<br>Webpack
 				</td>
 			</tr>
 			</table>
@@ -89,19 +82,16 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 					<a href="#marcelin97">
 						<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 					</a>
-					<br>Node.js
 				</td>
 				<td align="center" width="96">
 					<a href="#marcelin97">
 						<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
 					</a>
-					<br>Express
 				</td>
 				<td align="center" width="96">
 					<a href="#marcelin97">
 						<img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="Symfony" alt="Symfony" width="40" height="40"/>&nbsp;
 					</a>
-					<br>Symfony
 				</td>	
 			</tr>
 			</table>
@@ -116,13 +106,11 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 					<a href="#marcelin97">
 						<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
 					</a>
-					<br>NPM
 				</td>
 				<td align="center" width="96">
 					<a href="#marcelin97">
-						<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Composer" alt="Composer" width="40" height="40"/>&nbsp;
+						<img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-line-wordmark.svg" title="Composer" alt="Composer" width="40" height="40"/>&nbsp;
 					</a>
-					<br>COMPOSER
 				</td>	
 			</tr>
 			</table>
@@ -137,25 +125,21 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 					<a href="#marcelin97">
 						<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 					</a>
-					<br>MySQL
 				</td>
 				<td align="center" width="96">
 					<a href="#marcelin97">
 						<img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg" title="Sequelize" alt="Sequelize" width="40" height="40"/>&nbsp;
 					</a>
-					<br>Sequelize
 				</td>
 				<td align="center" width="96">
 					<a href="#marcelin97">
 						<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 					</a>
-					<br>MongoDB
 				</td>
 				<td align="center" width="96">
 					<a href="#marcelin97">
 						<img src="https://github.com/devicons/devicon/blob/master/icons/doctrine/doctrine-line-wordmark.svg" title="Doctrine" alt="Doctrine" width="40" height="40"/>&nbsp;
 					</a>
-					<br>Doctrine
 				</td>
 			</tr>
 			</table>
@@ -170,19 +154,16 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 					<a href="#marcelin97">
 						<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 					</a>
-					<br>Git
 				</td>
 				<td align="center" width="96">
 					<a href="#marcelin97">
 						<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 					</a>
-					<br>GitHub
 				</td>
 				<td align="center" width="96">
 					<a href="#marcelin97">
 						<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
 					</a>
-					<br>GitLab
 				</td>
 			</tr>
 			</table>
@@ -197,7 +178,6 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 					<a href="#marcelin97">
 						<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest"  alt="Jest" width="40" height="40"/>&nbsp;
 					</a>
-					<br>Jest
 				</td>
 			</tr>
 			</table>
@@ -213,7 +193,6 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 					<a href="#marcelin97">
 						<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
 					</a>
-					<br>Typescript
 				</td>
 			</tr>
 			</table>
