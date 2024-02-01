@@ -11,10 +11,10 @@
 I live in France, near Paris 🥖. I have always been passionate about new technologies and digital. 💡.
 
 - 🔭 I'm currently working on something cool😉
-- 🌱 I am currently working on creating my portfolio
-- 🤝 I’m looking to collaborate on creating content
+<!-- - 🌱 I am currently working on creating my portfolio -->
+<!-- - 🤝 I’m looking to collaborate on creating content -->
 <!-- - 🤔 I’m looking for help with 3D -->
-- 💬 Ask me about HTML, CSS, JavaScript or Vue.js
+- 💬 Ask me about JavaScript, PHP or Symfony.
 - ⚡ Fun fact: I ❤️ video games
 
 ### My Hobbies:
@@ -26,7 +26,7 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 
 ## 🔧 Technologies & Tools
 
-💜 loving [vue][vue]
+💜 loving [vue][vue] [symfony][symfony]
 
 ### 👨🏻‍💻 Languages and Tools <br />
 <div>
@@ -96,7 +96,14 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 						<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
 					</a>
 					<br>Express
-				</td>		
+				</td>
+				<td align="center" width="96">
+					<a href="#marcelin97">
+						<img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="Symfony" alt="Symfony" width="40" height="40"/>&nbsp;
+					</a>
+					<br>Express
+				</td>	
+
 			</tr>
 			</table>
 			</details>
@@ -109,6 +116,12 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 				<td align="center" width="96">
 					<a href="#marcelin97">
 						<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
+					</a>
+					<br>NPM
+				</td>
+				<td align="center" width="96">
+					<a href="#marcelin97">
+						<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Composer" alt="Composer" width="40" height="40"/>&nbsp;
 					</a>
 					<br>NPM
 				</td>	
@@ -139,6 +152,12 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 					</a>
 					<br>MongoDB
 				</td>
+				<td align="center" width="96">
+					<a href="#marcelin97">
+						<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Doctrine" alt="Doctrine" width="40" height="40"/>&nbsp;
+					</a>
+					<br>MongoDB
+				</td>
 			</tr>
 			</table>
 			</details>
@@ -157,6 +176,12 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 				<td align="center" width="96">
 					<a href="#marcelin97">
 						<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+					</a>
+					<br>GitHub
+				</td>
+				<td align="center" width="96">
+					<a href="#marcelin97">
+						<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
 					</a>
 					<br>GitHub
 				</td>
@@ -233,9 +258,7 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 
 ![Loïs's github stats](https://github-readme-stats.vercel.app/api?username=Marcelin97&show_icons=true&hide_border=true&darked)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelin97&layout=compact)
-(https://github.com/Marcelin97/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Marcelin97&theme=dracula&hide_border=true)
 
 <!-- ## 🕒 This week i spent my time on: -->
 
@@ -250,10 +273,10 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 	    <li><b>Laptop: </b> Asus ZenBook UX481
   	    <li><b>Browser: </b> Chrome 🕸️ and Firefox 🔥</li>
 	    <li><b>Terminal: </b> Bash </li>
-	    <li><b>Editor:</b> VSCode - The best editor out there.</li>
+	    <li><b>Editor:</b> VSCode - IntelliJ IDEA</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Instagram.</li>
 	    <br />
-	    💻 See my Laptop 👉 <a href="./assets/MyLaptop.jpg" height="50" width="50" >Here</a>!
+	    <-- 💻 See my Laptop 👉 <a href="./assets/MyLaptop.jpg" height="50" width="50" >Here</a>! -->
 	
 </details>
 <details>	
@@ -266,7 +289,7 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 </details>
 
 ## 📫 How to reach me:
-👨‍💻 Learn more about my projects at: https://github.com/Marcelin97
+👨‍💻 Learn more about my projects at: [https://github.com/Marcelin97](https://github.com/Marcelin97?tab=repositories)
 💼 any freelance work? [email](mailto:lois_m@outlook.com)
 
 📕 [dev.to][dev] **|**
@@ -283,7 +306,9 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 [dev]: https://dev.to/marcelin97
 [instagram]: https://instagram.com/lois.dev
 [linkedin]: https://www.linkedin.com/in/lo%C3%AFs-marcelin-dev-web/
-[vue]: https://www.https://vuejs.org/
+[vue]: https://www.https:/vuejs.org/
+[symfony]: https://symfony.com/
+
 
 <!-- [website]: https://bradgarropy.com -->
 <!-- [twitter]: https://twitter.com/bradgarropy -->
