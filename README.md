@@ -123,7 +123,7 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 					<a href="#marcelin97">
 						<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Composer" alt="Composer" width="40" height="40"/>&nbsp;
 					</a>
-					<br>NPM
+					<br>COMPOSER
 				</td>	
 			</tr>
 			</table>
