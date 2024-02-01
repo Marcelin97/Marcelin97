@@ -101,9 +101,8 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 					<a href="#marcelin97">
 						<img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="Symfony" alt="Symfony" width="40" height="40"/>&nbsp;
 					</a>
-					<br>Express
+					<br>Symfony
 				</td>	
-
 			</tr>
 			</table>
 			</details>
@@ -154,9 +153,9 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 				</td>
 				<td align="center" width="96">
 					<a href="#marcelin97">
-						<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Doctrine" alt="Doctrine" width="40" height="40"/>&nbsp;
+						<img src="https://github.com/devicons/devicon/blob/master/icons/doctrine/doctrine-line-wordmark.svg" title="Doctrine" alt="Doctrine" width="40" height="40"/>&nbsp;
 					</a>
-					<br>MongoDB
+					<br>Doctrine
 				</td>
 			</tr>
 			</table>
@@ -181,9 +180,9 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 				</td>
 				<td align="center" width="96">
 					<a href="#marcelin97">
-						<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
+						<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
 					</a>
-					<br>GitHub
+					<br>GitLab
 				</td>
 			</tr>
 			</table>
@@ -204,45 +203,12 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 			</table>
 			</details>
 </div>
-<div>
-	<details id="marcelin97">
-		<summary><b>Tools</b></summary>
-		<table>
-			<tr>
-				<td align="center" width="96">
-					<a href="#marcelin97">
-						<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-					</a>
-					<br>Bash
-				</td>
-				<td align="center" width="96">
-					<a href="#marcelin97">
-						<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-					</a>
-					<br>Figma
-				</td>
-				<td align="center" width="96">
-					<a href="#marcelin97">
-						<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
-					</a>
-					<br>Visual Studio Code
-				</td>
-			</tr>
-			</table>
-	</details>
-</div>	
 
 <div>
 	<details id="marcelin97">
 		<summary><b>🎓🚀 Learning</b></summary>
 		<table>
 			<tr>
-				<td align="center" width="96">
-					<a href="#marcelin97">
-						<img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" title="Nuxt"  alt="Nuxt" width="40" height="40"/>&nbsp;
-					</a>
-					<br>Nuxt
-				</td>
 				<td align="center" width="96">
 					<a href="#marcelin97">
 						<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
@@ -276,7 +242,6 @@ I live in France, near Paris 🥖. I have always been passionate about new techn
 	    <li><b>Editor:</b> VSCode - IntelliJ IDEA</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Instagram.</li>
 	    <br />
-	    <-- 💻 See my Laptop 👉 <a href="./assets/MyLaptop.jpg" height="50" width="50" >Here</a>! -->
 	
 </details>
 <details>	
